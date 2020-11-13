@@ -1,0 +1,198 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+/* header section */
+header{
+	width:100%;
+	margin: 0 auto;
+	padding: 30px 0;
+}
+.container{
+	width: 90%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.logo{
+	width: 20%;
+	float: left;
+}
+.logo img{}
+nav{
+	width: 80%;
+	float: right;
+
+}
+nav ul{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	text-align: right;
+
+}
+nav ul li{
+	list-style-type: none;
+	display: inline-block;
+	padding-left: 40px;
+}
+nav ul li a{
+	text-decoration: none;
+	color: grey;
+	font-size: 19px;
+}
+/* banner section*/
+.banner-section{
+	width: 100%;
+}
+.banner-img{
+	width: 100%;
+}
+
+.banner-img img{
+	width: 100%;
+}
+/* article section */
+.article-section{
+	width: 100%;
+}
+.art-part-1{
+	padding: 40px 0;
+}
+.art-part-1 span{
+	color: gray;
+	margin: 20px 0;
+}
+.art-part-1 h2{
+	color: gray;
+	margin: 20px 0;
+}
+.art-part-1 p{
+	color: gray;
+	margin:20px 0!important;
+}
+.art-anc{
+	text-decoration: none;
+	color: gray;
+}
+.gallery{
+	width: 100%;
+	margin: 20px 0;
+	display: inline-block;
+}
+.gallery-box{
+	width: 48%;
+	float: left;
+	margin-right: 20px;
+}
+.gallery-box img{
+	width: 100%;
+}
+.gallery-box span{
+	color: grey;
+}
+.gallery-box h2{
+	color: grey;
+	margin:20px 0;
+}
+.gallery-box p{
+	color: grey;
+}
+.margin{
+	margin-right: 20px;
+}
+/* newsletter section */
+.newsletter-section{
+	width: 100%;
+	background-color: #e4e2e2;
+	text-align: center;
+	padding: 100px 0;
+}
+.news{}
+.news h2{
+	margin-bottom: 30px;
+}
+.news input{
+	border: none;
+	background: transparent;
+	border-bottom: 1px solid black;
+	width: 25%;
+	padding: 11px;
+}
+.btn{
+	border: none;
+	background: transparent;
+}
+/* other article */
+.gallery button{
+	padding-right: 40px 0;
+	text-align: center;
+}
+.load-more{
+	padding: 30px 0;
+	text-align: center;
+	color: grey;
+}
+.load-more button{
+	font-size: 30px;
+	color:grey;
+	width: 13%;
+	padding: 10px 0;
+}
+/* footer section */
+footer{
+	width: 100%;
+	background-color: #bbbbbb;
+	height:100%;
+	padding: 20px o;
+	display: block;
+}
+.footer-menu{
+	width: 50%;
+	float: left;
+}
+
+.footer-menu ul{
+	margin-left: 10%;
+	width: 100%;
+	float: left;
+}
+.footer-menu ul li{
+	list-style: none;
+	float: left;
+}
+.footer-menu ul li a{
+	text-decoration: none;
+	float: left;
+	margin-right: 20px;
+	font-size: 20px;
+	display: inline-block;
+	color: black;
+}
+.social-menu{
+	width: 14%;
+	display: inline-block;
+	margin-left: 36%;
+}
+.social-menu ul{
+	list-style-type: none;
+}
+.social-menu ul li{
+	float: left;
+}
+.social-menu ul li span{
+	margin-right: 10px;
+	color: black;
+	font-size: 20px;
+}
+.social-menu ul li a{
+	color: gray;
+	margin-left: 5px;
+	float: left;
+}
+.social-menu ul li a img{
+	width: 20px;
+	height:20px;
+	float: left; 
+}
+	
+
